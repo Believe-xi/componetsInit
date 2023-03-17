@@ -1,0 +1,1312 @@
+{
+    "resultCode": 33,
+    "resultDesc": null,
+    "success": true,
+    "result": [
+        {
+            "PortraitPointTreeOutDto": {
+                "Children": [
+                    {
+                        "Id": "ea officia consequat",
+                        "Type": 85,
+                        "ParentName": "族给和",
+                        "IsLight": true,
+                        "Level": 33,
+                        "ParentNames": "它专式义",
+                        "Value": null,
+                        "Text": null,
+                        "ParentId": null,
+                        "Percent": 55,
+                        "ParentIds": null,
+                        "Content": "quis incididunt ut",
+                        "Children": [
+                            {
+                                "Level": 30,
+                                "Type": 68,
+                                "ParentName": "难事温多",
+                                "Text": null,
+                                "Percent": 37,
+                                "ParentIds": null,
+                                "Content": null,
+                                "Children": [],
+                                "Value": null,
+                                "IsLight": false,
+                                "ParentId": null,
+                                "Id": "deserunt in",
+                                "ParentNames": "成消设从把资"
+                            }
+                        ]
+                    },
+                    {
+                        "ParentId": null,
+                        "Type": 57,
+                        "ParentNames": "五与界压铁和",
+                        "Text": "ipsum non et aute ad",
+                        "Content": null,
+                        "Percent": 83,
+                        "Level": 31,
+                        "IsLight": true,
+                        "Id": "consectetur laborum",
+                        "Children": [
+                            {
+                                "Percent": 33,
+                                "Value": null,
+                                "Id": null,
+                                "Children": null,
+                                "ParentName": "林后周变组引海",
+                                "IsLight": true,
+                                "Content": null,
+                                "ParentNames": "世上提按",
+                                "Type": 41,
+                                "ParentIds": "deserunt cillum anim irure id",
+                                "Text": "veniam ut ea proident consectetur",
+                                "ParentId": "qui",
+                                "Level": 51
+                            },
+                            {
+                                "ParentId": "eiusmod Lorem ut",
+                                "Text": "ut tempor ipsum",
+                                "ParentIds": "exercitation consequat do voluptate dolore",
+                                "Children": null,
+                                "Content": null,
+                                "Level": 63,
+                                "ParentName": "口已制",
+                                "Percent": 28,
+                                "Value": "eiusmod",
+                                "Id": null,
+                                "IsLight": false,
+                                "Type": 23,
+                                "ParentNames": "精收非性程边"
+                            },
+                            {
+                                "Level": 52,
+                                "Percent": 36,
+                                "Children": null,
+                                "ParentIds": null,
+                                "Id": "quis exercitation reprehenderit",
+                                "ParentNames": "程相已技除北",
+                                "ParentName": "型水到方须",
+                                "ParentId": null,
+                                "Text": null,
+                                "Content": "mollit non laboris incididunt Lorem",
+                                "Value": "elit occaecat quis",
+                                "IsLight": false,
+                                "Type": 94
+                            }
+                        ],
+                        "ParentName": "与身此到",
+                        "Value": null,
+                        "ParentIds": null
+                    },
+                    {
+                        "Level": 10,
+                        "ParentIds": null,
+                        "Children": null,
+                        "ParentId": null,
+                        "Text": null,
+                        "IsLight": true,
+                        "ParentNames": "五管下亲管",
+                        "Percent": 60,
+                        "ParentName": "全好接",
+                        "Content": null,
+                        "Value": "nisi",
+                        "Id": "sint id fugiat cillum minim",
+                        "Type": 19
+                    },
+                    {
+                        "ParentId": null,
+                        "Level": 23,
+                        "Type": 28,
+                        "ParentName": "大住受适物",
+                        "Id": "dolore occaecat nisi reprehenderit",
+                        "Content": null,
+                        "Text": "in amet labore",
+                        "Value": "sit est",
+                        "IsLight": false,
+                        "Children": null,
+                        "ParentNames": "专连思素音指",
+                        "Percent": 43,
+                        "ParentIds": "incididunt"
+                    }
+                ],
+                "Text": null,
+                "Id": "mollit",
+                "Level": 66,
+                "ParentName": "路设热百收共么",
+                "ParentIds": null,
+                "IsLight": false,
+                "ParentId": null,
+                "ParentNames": "工表效知音候",
+                "Type": 57,
+                "Percent": 86,
+                "Value": null,
+                "Content": null
+            },
+            "PortraitPointDetailDto": {
+                "Difficulties": null,
+                "SecondDtos": [
+                    {
+                        "SecondPointName": "抽象能力",
+                        "ThirdTagets": [
+                            {
+                                "ThirdTagetId": null,
+                                "TargetPoints": null,
+                                "ThirdTargetName": "可当好王你列度"
+                            },
+                            {
+                                "ThirdTargetName": "新北我养",
+                                "TargetPoints": null,
+                                "ThirdTagetId": "ex esse"
+                            },
+                            {
+                                "ThirdTagetId": "dolor esse",
+                                "TargetPoints": [
+                                    {
+                                        "TargetPointId": null,
+                                        "AbilityLevels": null,
+                                        "TargetPointName": "度量单位的感知与理解"
+                                    },
+                                    {
+                                        "AbilityLevels": null,
+                                        "TargetPointId": null,
+                                        "TargetPointName": "十低却育下"
+                                    }
+                                ],
+                                "ThirdTargetName": "量感"
+                            },
+                            {
+                                "ThirdTargetName": "每没非般",
+                                "ThirdTagetId": null,
+                                "TargetPoints": null
+                            }
+                        ],
+                        "SecondPointId": "dolore voluptate"
+                    }
+                ]
+            }
+        },
+        {
+            "PortraitPointDetailDto": {
+                "SecondDtos": null,
+                "Difficulties": [
+                    {
+                        "Id": "dolor",
+                        "Name": "结运国治出要社"
+                    },
+                    {
+                        "Name": "出酸机金",
+                        "Id": null
+                    },
+                    {
+                        "Name": "三拉才部千",
+                        "Id": "aliquip ipsum dolor est"
+                    },
+                    {
+                        "Name": "如周品议",
+                        "Id": "irure labore"
+                    },
+                    {
+                        "Name": "有比今资真",
+                        "Id": null
+                    }
+                ]
+            },
+            "PortraitPointTreeOutDto": {
+                "Id": "ut",
+                "Level": 74,
+                "Children": [
+                    {
+                        "Id": "minim sit incididunt proident ipsum",
+                        "Children": null,
+                        "Level": 92,
+                        "ParentId": null,
+                        "ParentNames": "拉层声深半素性",
+                        "ParentIds": "labore qui pariatur occaecat",
+                        "Percent": 24,
+                        "Value": "et aliquip sint ullamco in",
+                        "Text": "irure sed",
+                        "Type": 92,
+                        "IsLight": true,
+                        "ParentName": "众根采时形自五",
+                        "Content": null
+                    },
+                    {
+                        "Percent": 58,
+                        "Text": "consequat est",
+                        "Value": "labore",
+                        "ParentName": "利儿证办求",
+                        "ParentIds": null,
+                        "IsLight": true,
+                        "Level": 48,
+                        "Content": "sint Excepteur laborum",
+                        "ParentId": "amet nulla id deserunt",
+                        "Id": null,
+                        "Type": 30,
+                        "ParentNames": "素么位",
+                        "Children": [
+                            {
+                                "Children": [],
+                                "ParentNames": "头层同",
+                                "ParentName": "积面前走大各",
+                                "ParentId": "minim reprehenderit ullamco",
+                                "Text": null,
+                                "Id": "eiusmod consequat",
+                                "Percent": 31,
+                                "ParentIds": null,
+                                "IsLight": false,
+                                "Level": 30,
+                                "Value": null,
+                                "Content": "non amet ut",
+                                "Type": 21
+                            },
+                            {
+                                "Children": [],
+                                "Id": null,
+                                "Type": 81,
+                                "Level": 7,
+                                "Content": "dolore dolor irure aliqua ipsum",
+                                "ParentIds": "magna",
+                                "Value": "labore consectetur dolore in in",
+                                "ParentNames": "来全实地",
+                                "Percent": 31,
+                                "IsLight": true,
+                                "ParentName": "着值具西",
+                                "ParentId": "laboris cupidatat exercitation",
+                                "Text": null
+                            }
+                        ]
+                    }
+                ],
+                "Value": "laborum Excepteur dolor id eu",
+                "Content": null,
+                "ParentNames": "精没影当红",
+                "ParentName": "题们亲名重格内",
+                "Type": 61,
+                "ParentId": null,
+                "IsLight": false,
+                "ParentIds": "ut laboris in incididunt sit",
+                "Text": "ipsum exercitation velit",
+                "Percent": 76
+            }
+        },
+        {
+            "PortraitPointDetailDto": {
+                "Difficulties": null,
+                "SecondDtos": [
+                    {
+                        "SecondPointId": "Lorem ut reprehenderit ut",
+                        "ThirdTagets": null,
+                        "SecondPointName": "月治指适"
+                    },
+                    {
+                        "ThirdTagets": [
+                            {
+                                "TargetPoints": null,
+                                "ThirdTagetId": null,
+                                "ThirdTargetName": "也条四真"
+                            },
+                            {
+                                "TargetPoints": [
+                                    {
+                                        "TargetPointId": "cupidatat id ut veniam",
+                                        "AbilityLevels": [
+                                            {
+                                                "TargetIds": "minim ea",
+                                                "TargetPointId": null,
+                                                "QuestionDetails": [
+                                                    {
+                                                        "QuestionTypeName": "马断人比候土",
+                                                        "QuestionTypeId": null,
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "QuestionSort": "ea fugiat Excepteur officia deserunt",
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 24
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyId": "est ex ut dolor",
+                                                                        "DifficultyFactoryName": "物论从音观百",
+                                                                        "DifficultyName": "变青公色",
+                                                                        "DifficultyValue": 96,
+                                                                        "DifficultyFactoryId": "aliquip",
+                                                                        "Sort": 80
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryName": "成把之度约层",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryId": null,
+                                                                        "Sort": 71,
+                                                                        "DifficultyValue": 71,
+                                                                        "DifficultyName": "单老国着代代"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyValue": 91,
+                                                                        "DifficultyFactoryId": "consectetur",
+                                                                        "DifficultyId": "fugiat dolore",
+                                                                        "DifficultyFactoryName": "来自龙千",
+                                                                        "Sort": 67,
+                                                                        "DifficultyName": "别何接研图又"
+                                                                    },
+                                                                    {
+                                                                        "Sort": 53,
+                                                                        "DifficultyValue": 52,
+                                                                        "DifficultyFactoryName": "要党名等织",
+                                                                        "DifficultyId": "ad pariatur",
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyName": "须号织酸来表"
+                                                                    }
+                                                                ],
+                                                                "DifficultyTotalValue": 58,
+                                                                "QuestionSort": "commodo ut dolore veniam do"
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyFactoryId": null,
+                                                                        "Sort": 61,
+                                                                        "DifficultyFactoryName": "更行到周",
+                                                                        "DifficultyId": "quis",
+                                                                        "DifficultyName": "研所斯规",
+                                                                        "DifficultyValue": 54
+                                                                    },
+                                                                    {
+                                                                        "Sort": 80,
+                                                                        "DifficultyValue": 87,
+                                                                        "DifficultyId": "ea amet Excepteur id minim",
+                                                                        "DifficultyFactoryName": "低己观思具步千",
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyName": "色高华九何易精"
+                                                                    },
+                                                                    {
+                                                                        "Sort": 9,
+                                                                        "DifficultyFactoryName": "都来队效",
+                                                                        "DifficultyValue": 17,
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyName": "叫九结信元往",
+                                                                        "DifficultyId": null
+                                                                    }
+                                                                ],
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 18
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyId": "aliqua velit labore Excepteur",
+                                                                        "DifficultyFactoryName": "金将标",
+                                                                        "DifficultyFactoryId": "ad",
+                                                                        "Sort": 88,
+                                                                        "DifficultyValue": 49,
+                                                                        "DifficultyName": "劳西于才写"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyName": "什济状准断对",
+                                                                        "DifficultyFactoryId": "anim nisi",
+                                                                        "DifficultyId": "ipsum in aliqua mollit minim",
+                                                                        "Sort": 37,
+                                                                        "DifficultyFactoryName": "上全府太局",
+                                                                        "DifficultyValue": 35
+                                                                    },
+                                                                    {
+                                                                        "DifficultyValue": 27,
+                                                                        "DifficultyFactoryId": null,
+                                                                        "Sort": 22,
+                                                                        "DifficultyName": "路有出",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryName": "目八任变"
+                                                                    }
+                                                                ],
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 30
+                                                            }
+                                                        ],
+                                                        "Num": 64
+                                                    },
+                                                    {
+                                                        "Num": 32,
+                                                        "DifficultyRelateds": null,
+                                                        "QuestionTypeName": "阶别必部",
+                                                        "QuestionTypeId": null
+                                                    },
+                                                    {
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 35,
+                                                                "QuestionSort": null
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 49,
+                                                                "QuestionSort": null
+                                                            }
+                                                        ],
+                                                        "Num": 16,
+                                                        "QuestionTypeId": null,
+                                                        "QuestionTypeName": "政头强上"
+                                                    },
+                                                    {
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "DifficultyTotalValue": 92,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyValue": 42,
+                                                                        "DifficultyId": "ullamco pariatur nulla",
+                                                                        "DifficultyName": "带方相政",
+                                                                        "DifficultyFactoryName": "分有来中共",
+                                                                        "Sort": 11,
+                                                                        "DifficultyFactoryId": null
+                                                                    }
+                                                                ],
+                                                                "QuestionSort": "magna"
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 37,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "Sort": 2,
+                                                                        "DifficultyFactoryId": "dolor",
+                                                                        "DifficultyName": "当族从红",
+                                                                        "DifficultyId": "consequat adipisicing exercitation",
+                                                                        "DifficultyFactoryName": "点规务二水亲月",
+                                                                        "DifficultyValue": 65
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyFactoryId": "aliqua",
+                                                                        "DifficultyName": "没料目",
+                                                                        "DifficultyValue": 55,
+                                                                        "DifficultyFactoryName": "达把体感公劳",
+                                                                        "Sort": 90,
+                                                                        "DifficultyId": null
+                                                                    },
+                                                                    {
+                                                                        "Sort": 48,
+                                                                        "DifficultyFactoryName": "极相起程高价声",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyValue": 48,
+                                                                        "DifficultyName": "去院用斯史"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyValue": 99,
+                                                                        "DifficultyFactoryName": "就治周可个下成",
+                                                                        "DifficultyName": "利非从部",
+                                                                        "Sort": 1,
+                                                                        "DifficultyFactoryId": "in elit eiusmod mollit"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyName": "资开因决称",
+                                                                        "DifficultyFactoryName": "加满家县完平",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryId": "elit",
+                                                                        "Sort": 42,
+                                                                        "DifficultyValue": 28
+                                                                    }
+                                                                ],
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 98
+                                                            }
+                                                        ],
+                                                        "QuestionTypeName": "快林万头认",
+                                                        "QuestionTypeId": null,
+                                                        "Num": 17
+                                                    },
+                                                    {
+                                                        "Num": 69,
+                                                        "QuestionTypeId": null,
+                                                        "DifficultyRelateds": null,
+                                                        "QuestionTypeName": "强最选"
+                                                    }
+                                                ],
+                                                "AbilityLevelId": "proident minim sit",
+                                                "AbilityLevelName": "然省置式"
+                                            }
+                                        ],
+                                        "TargetPointName": "明造打专收"
+                                    },
+                                    {
+                                        "TargetPointName": "增适府最四与",
+                                        "AbilityLevels": [
+                                            {
+                                                "AbilityLevelId": null,
+                                                "AbilityLevelName": "日斗在团县路",
+                                                "TargetPointId": null,
+                                                "QuestionDetails": [
+                                                    {
+                                                        "QuestionTypeId": null,
+                                                        "Num": 19,
+                                                        "QuestionTypeName": "国眼活",
+                                                        "DifficultyRelateds": null
+                                                    }
+                                                ],
+                                                "TargetIds": null
+                                            },
+                                            {
+                                                "QuestionDetails": null,
+                                                "AbilityLevelId": "adipisicing dolor laborum quis",
+                                                "AbilityLevelName": "近界书农",
+                                                "TargetIds": null,
+                                                "TargetPointId": null
+                                            }
+                                        ],
+                                        "TargetPointId": "id cillum"
+                                    }
+                                ],
+                                "ThirdTagetId": null,
+                                "ThirdTargetName": "口开听收"
+                            },
+                            {
+                                "ThirdTagetId": "ad occaecat laborum",
+                                "TargetPoints": null,
+                                "ThirdTargetName": "养现高"
+                            },
+                            {
+                                "TargetPoints": [
+                                    {
+                                        "TargetPointId": "minim reprehenderit fugiat dolor incididunt",
+                                        "AbilityLevels": [
+                                            {
+                                                "TargetIds": "qui reprehenderit dolore",
+                                                "AbilityLevelName": "安周价路大",
+                                                "TargetPointId": null,
+                                                "AbilityLevelId": null,
+                                                "QuestionDetails": null
+                                            }
+                                        ],
+                                        "TargetPointName": "实拉满位还"
+                                    },
+                                    {
+                                        "AbilityLevels": [
+                                            {
+                                                "QuestionDetails": [
+                                                    {
+                                                        "QuestionTypeName": "革经统记级则",
+                                                        "QuestionTypeId": "sint",
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "QuestionSort": "ex adipisicing sit in",
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyFactoryName": "低精资别",
+                                                                        "Sort": 52,
+                                                                        "DifficultyValue": 1,
+                                                                        "DifficultyId": "magna officia sit",
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyName": "响品着线"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryName": "论记维选",
+                                                                        "DifficultyName": "方因其快",
+                                                                        "DifficultyFactoryId": "et sunt sit",
+                                                                        "Sort": 8,
+                                                                        "DifficultyValue": 23
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyFactoryName": "并不给给表力亲",
+                                                                        "Sort": 33,
+                                                                        "DifficultyId": "proident eiusmod ea",
+                                                                        "DifficultyValue": 75,
+                                                                        "DifficultyName": "最治照单且就"
+                                                                    }
+                                                                ],
+                                                                "DifficultyTotalValue": 31
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 99,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyFactoryId": null,
+                                                                        "Sort": 72,
+                                                                        "DifficultyFactoryName": "何个又教",
+                                                                        "DifficultyName": "志几教精",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyValue": 28
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 48,
+                                                                "QuestionSort": null
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyValue": 96,
+                                                                        "DifficultyFactoryName": "织对该即",
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyName": "下明中期",
+                                                                        "Sort": 21
+                                                                    },
+                                                                    {
+                                                                        "DifficultyValue": 23,
+                                                                        "DifficultyFactoryName": "到又界新他外约",
+                                                                        "Sort": 39,
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyName": "便保九备",
+                                                                        "DifficultyFactoryId": null
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyValue": 2,
+                                                                        "DifficultyName": "年做而层间",
+                                                                        "DifficultyFactoryName": "青计造真选七提",
+                                                                        "Sort": 46,
+                                                                        "DifficultyId": "amet occaecat labore"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyValue": 84,
+                                                                        "Sort": 61,
+                                                                        "DifficultyFactoryName": "例便毛克义",
+                                                                        "DifficultyFactoryId": "in aute voluptate consectetur deserunt",
+                                                                        "DifficultyName": "京地感连方土"
+                                                                    },
+                                                                    {
+                                                                        "Sort": 55,
+                                                                        "DifficultyFactoryName": "联土教特他九",
+                                                                        "DifficultyName": "去经率备",
+                                                                        "DifficultyFactoryId": "non",
+                                                                        "DifficultyId": "non elit consequat tempor irure",
+                                                                        "DifficultyValue": 95
+                                                                    }
+                                                                ],
+                                                                "DifficultyTotalValue": 5
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 44,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "Sort": 41,
+                                                                        "DifficultyFactoryName": "观北满较机才技",
+                                                                        "DifficultyName": "性书到气三",
+                                                                        "DifficultyValue": 49,
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyFactoryId": null
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyValue": 61,
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyName": "起元织别现能员",
+                                                                        "Sort": 21,
+                                                                        "DifficultyFactoryName": "所头许应除律"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "Num": 4
+                                                    },
+                                                    {
+                                                        "QuestionTypeName": "南下总济到他",
+                                                        "Num": 33,
+                                                        "QuestionTypeId": null,
+                                                        "DifficultyRelateds": null
+                                                    },
+                                                    {
+                                                        "QuestionTypeName": "声且少元",
+                                                        "QuestionTypeId": "occaecat ullamco",
+                                                        "Num": 37,
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "QuestionDifficulties": null,
+                                                                "QuestionSort": "culpa in reprehenderit magna mollit",
+                                                                "DifficultyTotalValue": 74
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 17
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": null,
+                                                                "DifficultyTotalValue": 8,
+                                                                "QuestionSort": null
+                                                            },
+                                                            {
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 43,
+                                                                "QuestionDifficulties": null
+                                                            },
+                                                            {
+                                                                "DifficultyTotalValue": 46,
+                                                                "QuestionSort": "aliquip sunt",
+                                                                "QuestionDifficulties": null
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "DifficultyRelateds": [
+                                                            {
+                                                                "QuestionSort": "amet Excepteur",
+                                                                "DifficultyTotalValue": 98,
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyValue": 65,
+                                                                        "Sort": 47,
+                                                                        "DifficultyId": "Duis",
+                                                                        "DifficultyFactoryName": "增务第打",
+                                                                        "DifficultyName": "美主布段",
+                                                                        "DifficultyFactoryId": "in sint Lorem"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryId": "sint irure quis incididunt occaecat",
+                                                                        "DifficultyId": "deserunt",
+                                                                        "DifficultyValue": 26,
+                                                                        "DifficultyName": "花线百展路",
+                                                                        "Sort": 35,
+                                                                        "DifficultyFactoryName": "压她办状当众"
+                                                                    },
+                                                                    {
+                                                                        "DifficultyFactoryName": "界性高能张红",
+                                                                        "DifficultyValue": 44,
+                                                                        "DifficultyId": null,
+                                                                        "DifficultyName": "接效拉结争",
+                                                                        "Sort": 30,
+                                                                        "DifficultyFactoryId": null
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "QuestionDifficulties": [
+                                                                    {
+                                                                        "DifficultyName": "运每提原交格",
+                                                                        "DifficultyFactoryId": null,
+                                                                        "DifficultyValue": 47,
+                                                                        "Sort": 67,
+                                                                        "DifficultyId": "veniam",
+                                                                        "DifficultyFactoryName": "发各山代十阶活"
+                                                                    }
+                                                                ],
+                                                                "QuestionSort": null,
+                                                                "DifficultyTotalValue": 43
+                                                            }
+                                                        ],
+                                                        "QuestionTypeId": null,
+                                                        "QuestionTypeName": "器严阶化易",
+                                                        "Num": 77
+                                                    }
+                                                ],
+                                                "AbilityLevelId": "adipisicing cillum Lorem",
+                                                "TargetIds": null,
+                                                "AbilityLevelName": "统却地转件间",
+                                                "TargetPointId": null
+                                            },
+                                            {
+                                                "TargetPointId": "reprehenderit in",
+                                                "AbilityLevelName": "到说月志声",
+                                                "QuestionDetails": null,
+                                                "TargetIds": null,
+                                                "AbilityLevelId": "elit"
+                                            },
+                                            {
+                                                "AbilityLevelName": "开通情果",
+                                                "QuestionDetails": null,
+                                                "AbilityLevelId": null,
+                                                "TargetPointId": null,
+                                                "TargetIds": null
+                                            },
+                                            {
+                                                "TargetPointId": "dolor commodo",
+                                                "AbilityLevelId": "ut",
+                                                "AbilityLevelName": "再动器五处就",
+                                                "TargetIds": "exercitation",
+                                                "QuestionDetails": null
+                                            },
+                                            {
+                                                "TargetPointId": "nulla consectetur",
+                                                "AbilityLevelId": "fugiat",
+                                                "QuestionDetails": null,
+                                                "AbilityLevelName": "立即此次便采",
+                                                "TargetIds": null
+                                            }
+                                        ],
+                                        "TargetPointName": "道军着院家",
+                                        "TargetPointId": "elit"
+                                    },
+                                    {
+                                        "AbilityLevels": null,
+                                        "TargetPointId": "irure cillum proident id commodo",
+                                        "TargetPointName": "水龙程通件完"
+                                    }
+                                ],
+                                "ThirdTagetId": null,
+                                "ThirdTargetName": "去报强公示"
+                            },
+                            {
+                                "ThirdTagetId": "sed cupidatat",
+                                "ThirdTargetName": "想面权写光易",
+                                "TargetPoints": null
+                            }
+                        ],
+                        "SecondPointId": "nostrud fugiat elit laboris",
+                        "SecondPointName": "始议根时者果"
+                    },
+                    {
+                        "SecondPointName": "联被定比们定劳",
+                        "SecondPointId": null,
+                        "ThirdTagets": null
+                    }
+                ]
+            },
+            "PortraitPointTreeOutDto": {
+                "Id": "ut",
+                "ParentId": null,
+                "Percent": 30,
+                "ParentIds": "et non culpa sint",
+                "ParentNames": "民强传格何",
+                "Text": "enim",
+                "Type": 59,
+                "Children": null,
+                "Content": "id",
+                "Value": null,
+                "IsLight": false,
+                "ParentName": "海便向",
+                "Level": 76
+            }
+        },
+        {
+            "PortraitPointDetailDto": {
+                "Difficulties": [
+                    {
+                        "Name": "已科气切",
+                        "Id": null
+                    },
+                    {
+                        "Name": "电部领用收",
+                        "Id": "consectetur"
+                    },
+                    {
+                        "Id": "Duis",
+                        "Name": "长长积"
+                    },
+                    {
+                        "Id": "mollit pariatur reprehenderit",
+                        "Name": "心严加名正西化"
+                    }
+                ],
+                "SecondDtos": null
+            },
+            "PortraitPointTreeOutDto": {
+                "ParentIds": "dolore commodo voluptate eiusmod nisi",
+                "ParentName": "严克家积约",
+                "Percent": 10,
+                "ParentNames": "被列现我",
+                "Value": null,
+                "Id": null,
+                "Type": 51,
+                "Content": "elit consequat amet",
+                "IsLight": false,
+                "ParentId": "nisi proident dolore in est",
+                "Text": null,
+                "Children": [
+                    {
+                        "Level": 92,
+                        "Value": null,
+                        "ParentNames": "今步保场",
+                        "ParentName": "热间的气水始",
+                        "Content": "incididunt fugiat commodo in nulla",
+                        "Type": 21,
+                        "Id": null,
+                        "Percent": 71,
+                        "IsLight": true,
+                        "Children": null,
+                        "Text": null,
+                        "ParentId": null,
+                        "ParentIds": null
+                    },
+                    {
+                        "ParentName": "受其之林",
+                        "Children": [
+                            {
+                                "Value": null,
+                                "Percent": 25,
+                                "ParentNames": "单且方经",
+                                "ParentId": null,
+                                "Type": 69,
+                                "ParentName": "究老指科",
+                                "ParentIds": null,
+                                "IsLight": false,
+                                "Text": null,
+                                "Id": null,
+                                "Level": 83,
+                                "Content": null,
+                                "Children": null
+                            }
+                        ],
+                        "IsLight": true,
+                        "Value": "culpa cillum amet velit",
+                        "Id": "Duis tempor ut veniam non",
+                        "Content": "ut laboris in proident",
+                        "ParentId": "qui voluptate",
+                        "ParentNames": "把具他铁过",
+                        "Text": "exercitation adipisicing nostrud qui",
+                        "ParentIds": null,
+                        "Level": 50,
+                        "Type": 23,
+                        "Percent": 32
+                    },
+                    {
+                        "ParentName": "却说论写离学",
+                        "Percent": 50,
+                        "Content": null,
+                        "Text": "non voluptate commodo cillum",
+                        "ParentNames": "器之运争",
+                        "ParentIds": null,
+                        "Value": "elit",
+                        "Id": "deserunt est",
+                        "Type": 24,
+                        "Level": 52,
+                        "Children": [
+                            {
+                                "IsLight": true,
+                                "Percent": 73,
+                                "Id": "eu dolor cillum",
+                                "Level": 18,
+                                "ParentIds": "voluptate culpa exercitation occaecat labore",
+                                "ParentName": "利具式选",
+                                "Children": [],
+                                "Content": "nisi in",
+                                "ParentId": "Ut",
+                                "Value": "dolore nostrud minim exercitation est",
+                                "Type": 70,
+                                "ParentNames": "至务百商周专",
+                                "Text": null
+                            },
+                            {
+                                "Children": [],
+                                "Value": null,
+                                "Level": 22,
+                                "ParentName": "命养意",
+                                "Id": null,
+                                "Percent": 97,
+                                "Content": "est Lorem",
+                                "Type": 2,
+                                "ParentId": "cupidatat consequat magna est",
+                                "ParentNames": "全济做委列西九",
+                                "IsLight": true,
+                                "ParentIds": null,
+                                "Text": null
+                            },
+                            {
+                                "ParentId": "consequat",
+                                "Children": [],
+                                "IsLight": false,
+                                "Type": 48,
+                                "Percent": 36,
+                                "Value": "ipsum",
+                                "Content": "aliqua in veniam",
+                                "Text": "non amet laborum",
+                                "Level": 43,
+                                "Id": "officia aliqua laborum ut",
+                                "ParentIds": "nostrud deserunt velit",
+                                "ParentName": "和知十半业",
+                                "ParentNames": "教五数示"
+                            },
+                            {
+                                "IsLight": false,
+                                "Id": "in",
+                                "Type": 54,
+                                "ParentId": "ad cupidatat dolore nulla",
+                                "ParentName": "周几但眼在",
+                                "Level": 78,
+                                "Percent": 55,
+                                "ParentIds": "ea",
+                                "Value": "proident dolore irure commodo laborum",
+                                "ParentNames": "华必它并",
+                                "Content": null,
+                                "Text": "nisi",
+                                "Children": []
+                            },
+                            {
+                                "Type": 58,
+                                "Text": null,
+                                "IsLight": false,
+                                "Content": null,
+                                "Value": null,
+                                "Level": 57,
+                                "Children": null,
+                                "Id": "enim",
+                                "ParentIds": "deserunt cillum",
+                                "ParentName": "技器花场强",
+                                "ParentNames": "化道过始积",
+                                "Percent": 53,
+                                "ParentId": "quis ut"
+                            }
+                        ],
+                        "IsLight": false,
+                        "ParentId": "fugiat nulla voluptate labore in"
+                    },
+                    {
+                        "Children": null,
+                        "ParentName": "识问什",
+                        "Percent": 10,
+                        "Id": "culpa qui aliquip",
+                        "Content": null,
+                        "ParentId": "et voluptate incididunt nulla proident",
+                        "Value": null,
+                        "ParentNames": "名风何格",
+                        "Type": 40,
+                        "Level": 1,
+                        "Text": "eu",
+                        "IsLight": true,
+                        "ParentIds": null
+                    },
+                    {
+                        "ParentIds": null,
+                        "ParentId": null,
+                        "Content": "est cillum irure nostrud",
+                        "Level": 22,
+                        "ParentNames": "研热变各书完",
+                        "Id": null,
+                        "Percent": 37,
+                        "Type": 58,
+                        "IsLight": true,
+                        "Children": [
+                            {
+                                "Type": 16,
+                                "Percent": 14,
+                                "Id": null,
+                                "Content": null,
+                                "Level": 83,
+                                "ParentName": "达书张度做劳",
+                                "Children": null,
+                                "ParentId": null,
+                                "ParentNames": "由无据教体形",
+                                "IsLight": false,
+                                "ParentIds": "irure et laborum",
+                                "Value": null,
+                                "Text": null
+                            },
+                            {
+                                "Children": [],
+                                "ParentIds": null,
+                                "Id": null,
+                                "ParentName": "用特场往",
+                                "ParentId": "nostrud culpa in",
+                                "Type": 46,
+                                "IsLight": true,
+                                "Value": "nisi in Excepteur elit ullamco",
+                                "Level": 47,
+                                "Content": null,
+                                "Text": null,
+                                "ParentNames": "收战对提华话进",
+                                "Percent": 9
+                            },
+                            {
+                                "ParentIds": "proident sit",
+                                "Children": [],
+                                "ParentNames": "成县积价并代组",
+                                "Type": 7,
+                                "Percent": 7,
+                                "Level": 18,
+                                "ParentId": null,
+                                "IsLight": false,
+                                "Id": "Ut est irure sit voluptate",
+                                "Text": "laborum laboris",
+                                "Value": "est sit mollit nostrud",
+                                "Content": "Excepteur aliquip adipisicing",
+                                "ParentName": "联结一现"
+                            },
+                            {
+                                "Id": "id quis",
+                                "ParentName": "象至结毛住却",
+                                "ParentId": null,
+                                "Type": 88,
+                                "ParentIds": null,
+                                "Children": [],
+                                "ParentNames": "同响传统天动酸",
+                                "Level": 20,
+                                "IsLight": false,
+                                "Value": "culpa amet sunt",
+                                "Text": "irure esse magna",
+                                "Percent": 30,
+                                "Content": "veniam Duis nisi"
+                            },
+                            {
+                                "Level": 34,
+                                "Type": 61,
+                                "IsLight": false,
+                                "Percent": 66,
+                                "Text": "aute officia",
+                                "ParentIds": "aliquip laborum labore sit ad",
+                                "Children": null,
+                                "ParentId": null,
+                                "Content": "est anim non sit mollit",
+                                "ParentName": "技感派但",
+                                "Value": "velit labore Ut et dolor",
+                                "ParentNames": "文文属然全",
+                                "Id": null
+                            }
+                        ],
+                        "Value": null,
+                        "ParentName": "农几加电",
+                        "Text": "anim"
+                    }
+                ],
+                "Level": 83
+            }
+        },
+        {
+            "PortraitPointDetailDto": {
+                "SecondDtos": null,
+                "Difficulties": [
+                    {
+                        "Name": "条构公美见才这",
+                        "Id": null
+                    },
+                    {
+                        "Id": null,
+                        "Name": "少常照律"
+                    },
+                    {
+                        "Id": null,
+                        "Name": "越且流什适值没"
+                    },
+                    {
+                        "Name": "在当及派几教着",
+                        "Id": null
+                    }
+                ]
+            },
+            "PortraitPointTreeOutDto": {
+                "Type": 18,
+                "Children": [
+                    {
+                        "ParentName": "起空多始府",
+                        "Children": [
+                            {
+                                "ParentIds": null,
+                                "IsLight": false,
+                                "Percent": 21,
+                                "Children": [],
+                                "Value": null,
+                                "Id": "sit nulla culpa",
+                                "ParentName": "线想点见",
+                                "Text": null,
+                                "Content": "ut aliqua irure id",
+                                "Type": 26,
+                                "Level": 30,
+                                "ParentId": "consequat in",
+                                "ParentNames": "必引常算离力三"
+                            },
+                            {
+                                "Content": "in veniam nostrud et",
+                                "IsLight": false,
+                                "ParentName": "维运本",
+                                "Children": [],
+                                "Type": 10,
+                                "Value": "laborum consequat",
+                                "ParentNames": "又各战力",
+                                "Percent": 57,
+                                "ParentIds": "in nisi",
+                                "Level": 72,
+                                "ParentId": "aliquip dolor Lorem occaecat",
+                                "Text": "Excepteur do consequat sit",
+                                "Id": null
+                            }
+                        ],
+                        "ParentId": null,
+                        "Id": null,
+                        "IsLight": false,
+                        "ParentIds": "minim pariatur Duis commodo nostrud",
+                        "Type": 87,
+                        "Text": "nostrud eiusmod",
+                        "ParentNames": "过证各住二目",
+                        "Level": 3,
+                        "Content": "tempor est fugiat",
+                        "Value": "dolor",
+                        "Percent": 49
+                    },
+                    {
+                        "ParentId": null,
+                        "Text": null,
+                        "ParentName": "济志间书林",
+                        "ParentNames": "候术由",
+                        "Id": "dolore cupidatat qui Lorem",
+                        "Value": "magna officia",
+                        "Content": null,
+                        "Type": 84,
+                        "IsLight": false,
+                        "Percent": 85,
+                        "Children": [
+                            {
+                                "Value": null,
+                                "Content": null,
+                                "ParentNames": "属名系史",
+                                "Level": 61,
+                                "Percent": 30,
+                                "Text": null,
+                                "ParentIds": "Duis",
+                                "Type": 64,
+                                "IsLight": false,
+                                "Children": [],
+                                "ParentId": null,
+                                "Id": null,
+                                "ParentName": "细叫空厂此细二"
+                            },
+                            {
+                                "Children": [],
+                                "Id": "qui amet minim sint deserunt",
+                                "ParentName": "来个说",
+                                "Value": null,
+                                "Type": 90,
+                                "ParentNames": "她做千制电",
+                                "ParentId": "eu ad culpa id in",
+                                "Text": "velit veniam",
+                                "Level": 1,
+                                "Percent": 91,
+                                "IsLight": true,
+                                "Content": null,
+                                "ParentIds": null
+                            },
+                            {
+                                "ParentName": "干联何天",
+                                "Percent": 96,
+                                "ParentId": null,
+                                "Content": "in ipsum Ut exercitation",
+                                "Value": "magna et",
+                                "Level": 5,
+                                "ParentIds": "consequat quis et",
+                                "ParentNames": "人例酸化连世",
+                                "Children": null,
+                                "Type": 99,
+                                "Text": null,
+                                "IsLight": true,
+                                "Id": "proident veniam irure"
+                            }
+                        ],
+                        "ParentIds": "ut exercitation veniam fugiat do",
+                        "Level": 15
+                    }
+                ],
+                "Content": null,
+                "IsLight": false,
+                "ParentId": null,
+                "Id": "do ut",
+                "ParentName": "先两百强术",
+                "ParentNames": "着价府从根领",
+                "Level": 71,
+                "Value": null,
+                "Percent": 77,
+                "ParentIds": "aute aliqua irure",
+                "Text": null
+            }
+        }
+    ]
+}
