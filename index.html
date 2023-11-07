@@ -1,13 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8">
-    <link rel="icon" href="/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vite App</title>
-  </head>
-  <body>
+    <link rel="icon" href="./favicon.ico">
+    <title>资产管理学校端</title>
+    <style>
+        .start-loading-box {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            width: 140px;
+            height: 140px;
+            transform: translate(-50%, 0) scale(1.5);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            font-size: 20px;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .start-loading-box img {
+            display: block;
+            width: 60px;
+            position: absolute;
+            transform: translate(-50%, -50%);
+            top: 0;
+            left: 50%;
+        }
+
+        @keyframes loading {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .loading-point {
+            position: absolute;
+            top: -130px;
+            width: 16px;
+            height: 16px;
+            border-radius: 8px;
+            background: linear-gradient(to bottom right, #2dd2ff, #0057fe);
+            transform-origin: 0 120px;
+            animation: loading 1s infinite;
+        }
+
+        .start-loading-box path {
+            fill: none;
+        }
+
+        .start-loading-box svg {
+            display: block;
+            overflow: visible;
+        }
+    </style>
+</head>
+
+<body>
     <div id="app"></div>
-    <script type="module" src="/src/main.ts"></script>
-  </body>
+    <div class="start-loading-box">
+        <div class="loading-point"></div>
+        <img src="./icon.png" alt="">
+
+        <svg viewBox="0 0 140 140">
+            <linearGradient id="gr-simple" x1="0" y1="0" x2="100%" y2="100%">
+                <stop stop-color="#2dd2ff" offset="10%" />
+                <stop stop-color="#0057fe" offset="90%" />
+            </linearGradient>
+            <path d="M 0 -20 A 70 70 0 0 1 140 20" id="circle" />
+            <text fill="url(#gr-simple)">
+                <textPath xlink:href="#circle">
+                    欢迎使用自用组件库
+                </textPath>
+            </text>
+        </svg>
+    </div>
+    <script type="module" src="./src/main.ts"></script>
+    <script type="module" src="./src/assets/HarmonyOS_Sans_SC/harmony-normal.js"></script>
+</body>
+
 </html>

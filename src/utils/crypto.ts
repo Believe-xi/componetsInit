@@ -17,11 +17,10 @@ export const encrypt = (data: string) => {
 
 // 解密
 export const decrypt = (data: string) => {
-    const decrypted = CryptoJS.AES.decrypt(data, key,
-        {
-            iv: iv,
-            mode: CryptoJS.mode.CBC,
-            padding: CryptoJS.pad.Pkcs7
-        });
+    const decrypted = CryptoJS.AES.decrypt(data, key, {
+        iv,
+        mode: CryptoJS.mode.CBC,
+        padding: CryptoJS.pad.Pkcs7
+    });
     return decrypted.toString(CryptoJS.enc.Utf8);
 };

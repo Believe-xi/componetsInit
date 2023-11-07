@@ -1,85 +1,74 @@
-<script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
+    <div class="lyx-asset__container">
+        <Sidebar />
+        <div class="lyx-asset-layout">
+            <div class="lyx-asset__scroll">
+                <div class="lyx-asset__content" :style="route.name === 'Home' ? '' : 'padding: 20px'">
+                    <router-view />
+                </div>
+            </div>
+        </div>
     </div>
-  </header>
-
-  <RouterView />
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
+<script lang="ts" setup>
+import Sidebar from "@/components/Sidebar/index.vue";
+import { useRoute } from "vue-router";
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
+const route = useRoute();
 
-nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
-}
+</script>
 
-nav a.router-link-exact-active {
-  color: var(--color-text);
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-
-@media (min-width: 1024px) {
-  header {
+<style lang="scss" scoped>
+.lyx-asset__container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
     display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+    background-color: #fff;
+    z-index: 1;
+}
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
+.lyx-asset-layout {
+    flex: 1;
+    min-width: 0;
     display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+    flex-direction: column;
+}
 
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
+.lyx-asset__header {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding: 10px 20px;
+    line-height: 30px;
+    color: #90949E;
+    background-color: #EFF2F5;
+}
 
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
+.lyx-asset__scroll {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow-x: auto;
+}
+
+.lyx-asset__content {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 980px;
+    // background: rgba(239, 242, 245, 1);
+}
+</style>
+
+<style>
+.lyx-asset__header span {
+    color: #444;
 }
 </style>

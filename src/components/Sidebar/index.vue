@@ -1,8 +1,7 @@
 <template>
     <div class="lyx-asset__sidebar">
         <div class="lyx-asset__title">
-            <img src="/icon.png" alt="">
-            资产管理
+            demo库
         </div>
         <el-menu
             :default-active="activeMenu"

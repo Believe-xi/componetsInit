@@ -1,23 +1,62 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import { createRouter, createWebHashHistory, RouteRecordRaw } from "vue-router";
 
-const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
-  routes: [
+export const menuRoutes: Array<RouteRecordRaw> = [
     {
-      path: '/',
-      name: 'home',
-      component: HomeView
+        path: "home",
+        name: "Home",
+        meta: {
+            title: "主页"
+        },
+        component: () => import("@/views/404.vue")
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import('../views/AboutView.vue')
+        path: "element",
+        name: "element",
+        meta: {
+            title: "ElementUI"
+        },
+        component: () => import("@/views/ElementUI/index.vue"),
+        children: [
+            {
+                path: "/element/custom-table",
+                name: "custom-table",
+                meta: {
+                    title: "自定义表格"
+                },
+                component: () => import("@/views/ElementUI/moreLevelTable.vue")
+            },
+            // {
+            //     path: "/element/welcome",
+            //     name: "welcome",
+            //     meta: {
+            //         title: "欢迎"
+            //     },
+            //     component: () => import("@/components/TheWelcome.vue")
+            // }
+        ]
     }
-  ]
-})
+];
 
-export default router
+const routes: Array<RouteRecordRaw> = [
+    {
+        path: "/",
+        redirect: "/home",
+        children: menuRoutes
+    },
+    {
+        path: "/404",
+        name: "404",
+        component: () => import("@/views/404.vue")
+    },
+    {
+        path: "/:catchAll(.*)",
+        redirect: "/home"
+    }
+];
+
+const router = createRouter({
+    history: createWebHashHistory(),
+    routes
+});
+
+export default router;

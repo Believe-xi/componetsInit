@@ -1,5 +1,5 @@
 <template>
-    <el-sub-menu class="lyx-sub-menu" :index="item.name" v-if="item.children && permissions.indexOf(item.meta?.code as string) > -1">
+    <el-sub-menu class="lyx-sub-menu" :index="item.name" v-if="item.children">
         <template #title>
             <img
                 class="lyx-sidebar__icon"
@@ -17,7 +17,7 @@
             />
         </el-menu-item-group>
     </el-sub-menu>
-    <div v-else-if="permissions.indexOf(item.meta?.code as string) > -1" class="lyx-menu-item">
+    <div v-else class="lyx-menu-item">
         <el-menu-item :index="item.name" @click="onJump">
             <template #title>
                 <img
@@ -26,7 +26,7 @@
                     :src="icon"
                     alt=""
                 />
-                <div class="lyx-sidebar__text">{{ menuNamesMap.get(item.meta?.code as string) || item.meta?.title }}</div>
+                <div class="lyx-sidebar__text">{{  item.meta?.title }}</div>
             </template>
         </el-menu-item>
     </div>
@@ -36,7 +36,6 @@
 import { PropType, computed } from "vue";
 import { RouteRecordRaw, useRoute, useRouter } from "vue-router";
 import SidebarItem from "./SidebarItem.vue";
-import store from "@/store";
 
 const route = useRoute();
 const router = useRouter();
@@ -46,9 +45,6 @@ const props = defineProps({
         required: true
     }
 });
-
-const permissions = computed(() => store.state.menuPermissions);
-const menuNamesMap = computed(() => store.state.menuNamesMap);
 
 const icon = computed(() => {
     const url = `../../assets/icons/icon_${props.item.meta?.icon as string}${
